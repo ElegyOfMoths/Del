@@ -1,0 +1,29 @@
+content {
+    margin: 2rem;
+    max-width: 30rem;
+}
+
+.div-with-border {
+    padding: 1rem;
+    border: 1px dashed darkslateblue;
+}
+
+.div-with-background {
+    background-color: darkslateblue;
+    padding: 1rem;
+    color: white;
+}
+
+.inline-div {
+    background-color: rgba(71,61,139,0.3);
+    padding: 1rem;
+    display: inline-block;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 0.03rem;
+}
+
+
+

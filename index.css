@@ -1,0 +1,16 @@
+body {
+    background-color:beige;
+    color:brown;
+}
+
+h1 {
+    color: grey
+}
+
+.smallheader {
+    color: green;
+}
+
+h3 {
+    font-size: 10px;
+}

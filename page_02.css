@@ -1,0 +1,52 @@
+.content {
+    margin: 3rem;
+    max-width: 30rem;
+}
+
+.div-4 {
+    width: 20rem
+}
+
+.img1 {
+    max-width: 100%;
+
+}
+
+.img2 {
+    width: 10rem;
+    border: dashed 2px blueviolet;
+
+}
+
+.img3 {
+    width: 100%
+}
+
+.img4 {
+    border-radius: 50%
+}
+
+.span1 {
+    font-weight: 600;
+}
+
+.span2 {
+    font-size: 2rem;
+}
+
+.span3 {
+    text-decoration: underline;
+}
+
+.span4 {
+    color: darkslateblue;
+}
+
+.font1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.font2 {
+    font-family: "Ubuntu", sans-serif;
+}
+
